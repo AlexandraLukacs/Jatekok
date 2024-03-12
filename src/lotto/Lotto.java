@@ -4,15 +4,10 @@
  */
 package lotto;
 
-/**
- *
- * @author LukácsAlexandra(SZOF
- */
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 public class Lotto {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         /* deklarálás */
         final int DB = 90;
